@@ -30,7 +30,7 @@
                     "tokens": [
                         {
                             "xpath": "/TargetEndpoint/HTTPTargetConnection/URL",
-                            "value": "	https://arnnabtripathy-test.apigee.net/v1/party"
+                            "value": "https://arnnabtripathy-test.apigee.net/v1/party"
                         }
                     ]
                 }

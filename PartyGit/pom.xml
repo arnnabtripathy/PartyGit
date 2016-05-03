@@ -28,6 +28,6 @@
     <groupId>apigee</groupId>
     <artifactId>PartyGit</artifactId>
     <version>1.0</version>
-    <name>Party</name>
+    <name>PartyGit</name>
     <packaging>pom</packaging>
 </project>
