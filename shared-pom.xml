@@ -106,8 +106,8 @@
                 <apigee.hosturl>https://api.enterprise.apigee.com</apigee.hosturl>
                 <apigee.apiversion>v1</apigee.apiversion>
                 <apigee.org>${org}</apigee.org>
-                <apigee.username>${username}</apigee.username>
-                <apigee.password>${password}</apigee.password>
+                <apigee.username>arnnab.tripathy@tcs.com</apigee.username>
+                <apigee.password>Geet@123</apigee.password>
                 <apigee.options>${options}</apigee.options>
                 <apigee.revision>${revision}</apigee.revision> <!-- used while trying to update revision, use when option=update only -->
                 <!--apigee.override.delay>10</apigee.override.delay-->
